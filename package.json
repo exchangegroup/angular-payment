@@ -2,7 +2,7 @@
     "author": "https://github.com/seandesmond/angular-payment/graphs/contributors",
     "name": "angular-payment",
     "version": "0.4.0-SNAPSHOT",
-    "main": "dist/assets/angular-payment-tpls-0.3.0.js",
+    "main": "./dist/angular-payment-tpls-0.3.0.js",
     "dependencies": {},
     "devDependencies": {
         "grunt": "~0.4.1",
